@@ -1,1 +1,1 @@
-# learnpythonthehardway, my 5 days python streak
+# My 5 day python streak
