@@ -6,7 +6,7 @@ def main(language_file, encoding, errors):
 
     if line:
         print_line(line,encoding,errors)
-        return main(language_file,encoding,errors)
+        return main(language_file,encoding,error)
 
 
 def print_line(line,encoding,errors):
